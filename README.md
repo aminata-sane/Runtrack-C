@@ -3,7 +3,8 @@
 
 
 ## 🏆 **Job 2 - Jour 1 : my_strlen**
-📖 Qu'est-ce que my_strlen doit faire ?
+📖 **Qu'est-ce que my_strlen doit faire ?**
+
 La fonction my_strlen calcule la longueur d'une chaîne de caractères en comptant combien de lettres il y a avant le caractère '\0', qui marque la fin de la chaîne.
 
 Exemple avec "Bonjour" en mémoire :
