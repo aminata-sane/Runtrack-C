@@ -10,6 +10,7 @@ La fonction my_strlen calcule la longueur d'une chaîne de caractères en compta
 Exemple avec "Bonjour" en mémoire :
 
 | B	| o |	n |	j |	o |	u	| r |	\0 | 
+___________________________________________
 
 Ici, la fonction doit renvoyer 7.
 
