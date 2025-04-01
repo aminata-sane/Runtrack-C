@@ -7,9 +7,9 @@
 La fonction my_strlen calcule la longueur d'une chaîne de caractères en comptant combien de lettres il y a avant le caractère '\0', qui marque la fin de la chaîne.
 
 Exemple avec "Bonjour" en mémoire :
-----------------------------------
+
 | B	| o |	n |	j |	o |	u	| r |	\0 | 
-----------------------------------
+
 Ici, la fonction doit renvoyer 7.
 
 ⚙️ **Comment fonctionne my_strlen ?**
@@ -23,7 +23,7 @@ On s’arrête à '\0'
 → On retourne le compteur, qui contient la longueur de la chaîne.
 
 
-## 🏆 **Job 3 - Jour 2 : Vérification des chiffres**  
+## 🏆 **Job 3 - Jour 1 : Vérification des chiffres**  
 
 ### **🎯 Objectif du Job**  
 
